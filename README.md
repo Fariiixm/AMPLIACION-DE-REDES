@@ -1,4 +1,4 @@
-# AMPLIACION-DE-REDES  
+# AMPLIACION DE REDES  
 
 Este repositorio contiene documentación sobre distintos aspectos de la configuración de redes, utilizada en la asignatura **Aplicación de Redes**.  
 
